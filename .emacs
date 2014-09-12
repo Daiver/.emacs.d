@@ -11,8 +11,8 @@
  ;; If there is more than one, they won't work right.
  )
 
-(require 'auto-complete)
-(global-auto-complete-mode t)
+
+
 
 (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
                          ("marmalade" . "http://marmalade-repo.org/packages/")
